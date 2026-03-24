@@ -1,0 +1,2 @@
+# Fine-Tuning-MarianMT-and-T5-for-German-to-English-Translation-using-WMT-Dataset-and-PyTorch
+This project fine-tunes MarianMT and T5 models for German-to-English translation using the WMT dataset. It includes preprocessing, training, evaluation, and visualization. Leveraging transfer learning, both models show improved translation accuracy, with MarianMT excelling on long sequences and T5 offering versatility.
